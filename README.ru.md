@@ -1,6 +1,6 @@
 # FC-UNROM512
 
-Плата картриджа для NES/Famicom с маппером UNROM512 (семейство UNROM/UOROM, расширенный bank switching для PRG-ROM) и дополнительной памятью PRG.
+Плата картриджа для Famicom с маппером UNROM512 (семейство UNROM/UOROM, расширенный bank switching для PRG-ROM) и дополнительной памятью PRG.
 
 Подробнее о формате и совместимости UNROM512:
 
