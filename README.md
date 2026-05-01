@@ -1,6 +1,6 @@
 # FC-UNROM512
 
-UNROM512 NES/Famicom cartridge PCB (UNROM/UOROM family, extended PRG-ROM bank switching) with additional PRG RAM.
+UNROM512 Famicom cartridge PCB (UNROM/UOROM family, extended PRG-ROM bank switching) with additional PRG RAM.
 
 Russian version: [`README.ru.md`](README.ru.md)
 
