@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "UNROM-512")
-		(date "2023-11-18")
-		(rev "0.9")
+		(date "2026-05-01")
+		(rev "1.0.0")
 		(company "ponchick")
 	)
 	(lib_symbols
